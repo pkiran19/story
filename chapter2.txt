@@ -1,0 +1,2 @@
+this is the chapter 2 of this series.
+using git command lines to learn
